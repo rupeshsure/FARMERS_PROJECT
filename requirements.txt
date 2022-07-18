@@ -2,7 +2,7 @@ numpy
 pandas
 Flask
 scikit-learn
-torch 
+torch=1.11.0
 torchvision
 requests
 Pillow
