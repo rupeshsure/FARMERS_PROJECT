@@ -1,9 +1,8 @@
--f https://download.pytorch.org/whl/cu113/torch_stable.html
 numpy
 pandas
 Flask
 scikit-learn
-torch==1.10.0
+torch==1.11.0+cu113
 torchvision==0.8.1
 requests
 Pillow
