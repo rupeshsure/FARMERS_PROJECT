@@ -1,9 +1,14 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 numpy
 pandas
 Flask
+psycopg2==2.8.5
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
 scikit-learn
-https://download.pytorch.org/whl/cpu/torch-1.7.0-cp3105-cp3105m-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.8.1-cp36-cp36m-linux_x86_64.whl
+torch==1.5.0+cpu
+torchvision==0.6.0+cpu
 requests
 Pillow
 gunicorn == 20.0.4
