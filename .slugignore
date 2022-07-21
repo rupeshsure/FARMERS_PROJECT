@@ -10,3 +10,7 @@
 /app/Gemfile.lock
 /app/Procfile
 /app/Gemfile
+/docker
+/docs
+/puppet
+/tests
