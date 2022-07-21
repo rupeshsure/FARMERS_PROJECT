@@ -17,6 +17,7 @@
 /app/models
 /app/templates
 /app/Data
+/app/static
 /app/utils
 
 
