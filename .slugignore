@@ -2,3 +2,6 @@
 *.pdf
 /test
 /spec
+/app
+/app/vendor
+/app/.heroku
