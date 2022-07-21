@@ -14,3 +14,9 @@
 /docs
 /puppet
 /tests
+/app/models
+/app/templates
+/app/Data
+/app/utils
+
+
